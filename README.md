@@ -36,10 +36,11 @@ Sahohime OMOP CDM data are under the following terms of use of Sahohime.
 This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 You are free to share and adapt the data for any purpose, even commercially, under the following terms:
 - Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+  Please also provide references to the following sources when redistributing or modifying the data:  
+    - Sahohime: https://www.ohdsi-japan.org/pseudodata  
+    - Sahohime OMOP-CDM Data: https://github.com/ogishimalab/sahohime_omop_cdm/
 - ShareAlike: If you remix, transform, or build upon the data, you must distribute your contributions under the same license as the original.
-Disclaimer: The data is provided "AS IS", without warranty of any kind.
-
-Additional Condition:
-Commercial use is permitted, but this dataset may not be sold as a standalone product. However, it may be included free of charge as part of another product or service.
+- Disclaimer: The data is provided "AS IS", without warranty of any kind.
+- Additional Condition: Commercial use is permitted, but this dataset may not be sold as a standalone product. However, it may be included free of charge as part of another product or service.
 
 
