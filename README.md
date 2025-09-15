@@ -33,6 +33,6 @@ The MEASUREMENT table contains records of Measurements, i.e. structured values (
 ## License
 This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 When redistributing or adapting this dataset, you must indicate the original sources as follows:
--- Sahohime: https://www.ohdsi-japan.org/pseudodata
--- Sahohime OMOP-CDM Data: https://github.com/ogishimalab/sahohime_omop_cdm/.
+- Sahohime: https://www.ohdsi-japan.org/pseudodata
+- Sahohime OMOP-CDM Data: https://github.com/ogishimalab/sahohime_omop_cdm/.
 
